@@ -1,0 +1,23 @@
+ENCOUNTR APP ASSET MASTER
+
+All 12 app screen assets are normalized to exactly:
+420 x 760 px
+
+Visible phone/content frame:
+352 x 718 px
+Position:
+x=34, y=21
+
+Files:
+01 encountr-app-01-welcome.png
+02 encountr-app-02-discover.png
+03 encountr-app-03-profile.png
+04 encountr-app-04-booking.png
+05 encountr-app-05-confirmed.png
+06 encountr-app-06-arrival.png
+07 encountr-app-07-chat-overview.png
+08 encountr-app-08-chat.png
+09 encountr-app-09-verification.png
+10 encountr-app-10-my-bookings.png
+11 encountr-app-11-complete.png
+12 encountr-app-12-advertise.png
