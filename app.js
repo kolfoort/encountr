@@ -1,1 +1,0 @@
-document.querySelectorAll('.filter').forEach(b=>b.addEventListener('click',()=>{document.querySelectorAll('.filter').forEach(x=>x.classList.remove('active'));b.classList.add('active')}));document.querySelectorAll('.heart').forEach(h=>h.addEventListener('click',()=>h.textContent=h.textContent==='♡'?'♥':'♡'));
