@@ -17,3 +17,5 @@ Static GitHub Pages-ready front end. The app screens are presentation assets onl
 - `styles.css` — layout and styling
 - `app.js` — demo interactions
 - `assets/encountr-app-*.png` — 12 normalized app screens
+
+Version: v21 — strict uniform app gallery sizing.
